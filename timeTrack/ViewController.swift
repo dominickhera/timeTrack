@@ -10,6 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet var passButton: UIButton!
+    @IBOutlet var cashButton: UIButton!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -20,6 +24,12 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func passButtonAction(sender: AnyObject) {
+        print("pass is best")
+    }
 
+    @IBAction func cashButtonAction(sender: AnyObject) {
+        print("cash is best")
+    }
 }
 

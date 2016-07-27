@@ -491,6 +491,7 @@
 				254D98101D416050005F14E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		254D98111D416050005F14E6 /* Build configuration list for PBXNativeTarget "timeTrackTests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +500,7 @@
 				254D98131D416050005F14E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		254D98141D416050005F14E6 /* Build configuration list for PBXNativeTarget "timeTrackUITests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +509,7 @@
 				254D98161D416050005F14E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
